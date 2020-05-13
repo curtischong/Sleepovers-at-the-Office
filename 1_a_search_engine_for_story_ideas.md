@@ -1,5 +1,6 @@
 # A Search Engine for Story Ideas
 
+<p style="max-width: 600px;">
 Authors can take years to publish a novel.
 <br>
 <br>
@@ -17,3 +18,4 @@ Yes, authors may end up with MORE fragmented ideas if they mash a dozen ideas in
 I hope you have great reads this week!
 
 \- Curtis
+</p>
