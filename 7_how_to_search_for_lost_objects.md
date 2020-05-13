@@ -30,5 +30,5 @@ I hope you do some housekeeping this week!
 <br>
 <br>
 <br>
-P.S. This idea came to mind after watching this Ted Talk: https://www.youtube.com/watch?v=IQkj4CF_ha4. It's worth a viewing :)
+P.S. This idea came to mind after watching this Ted Talk: [youtube.com/watch?v=IQkj4CF_ha4](https://www.youtube.com/watch?v=IQkj4CF_ha4). It's worth a viewing :)
 
