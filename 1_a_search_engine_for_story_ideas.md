@@ -4,7 +4,6 @@
 Authors can take years to publish a novel.
 <br>
 <br>
-<br>
 In comparison, musicians can finish a song a day. I think their creative process is sped up because they record flashes of inspiration as .mp3 files on their phones. Later they'll go through their recordings and crown a new song with these snippets from their collection.
 <br>
 <br>
@@ -16,8 +15,6 @@ A tool that can search for scenes riddled with "deceptive betrayal" can help ove
 Yes, authors may end up with MORE fragmented ideas if they mash a dozen ideas into a collage. But I think that a brilliant conductor will know when to give their picturesque snippets a solo.
 <br>
 <br>
-<br>
-
 I hope you have great reads this week!
 
 \- Curtis
