@@ -1,4 +1,3 @@
-
 # A Search Engine for Story Ideas
 
 Authors can take years to publish a novel.
