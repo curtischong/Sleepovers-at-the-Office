@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="title.jpg" alt="Sleepovers at the Office"/>
+  <img src="title.jpg" alt="Sleepovers at the Office" width="600/>
 </p>
 
-Welcome to Sleepovers at the Office!
-
-This repo is an archive for my weekly newsletters.
+Welcome! This is an archive for my weekly newsletter.
 
 If you love reading about cool project ideas, you can sign up here: [chongcurtis.com/sleepovers](https://chongcurtis.com/sleepovers)
 
