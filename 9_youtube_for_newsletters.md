@@ -13,7 +13,6 @@ With this data, writers can refine their issues and computers can even
 Recommend issues personalized for you.
 Introduce new authors.
 In a nutshell, newsletters should adopt YouTube's most successful traits.
- 
 
 I hope you'll read a heartwarming story this week.
 
