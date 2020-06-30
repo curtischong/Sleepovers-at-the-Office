@@ -29,7 +29,7 @@ Some of you may ask, "why not just use Google Sheets?" Although I have thought o
 
 I hope that you'll learn a useful formula this week, perhaps even some Algorithms to Live By.
 
-- Curtis
+\- Curtis
 
 ## Author's Amendments
 If you're not sold, you're not alone, I'm terrible at explaining things. Here are more reasons why I think this idea is cool:

@@ -31,3 +31,7 @@ I hope you do some housekeeping this week!
 <br>
 P.S. This idea came to mind after watching this Ted Talk: [youtube.com/watch?v=IQkj4CF_ha4](https://www.youtube.com/watch?v=IQkj4CF_ha4). It's worth a viewing :)
 
+# Author's Amendments
+For those of you who wonder, "but if the object is covered, how will our cameras find it?"
+
+The solution to this problem is to comb through recordings of our video. This means that we don't have to see an object to know where it is presently. We can retroactively search through hours of footage with our networks to see where the item last was.

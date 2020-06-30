@@ -22,6 +22,6 @@ I'm still working out the bugs, but I'll let you know when it's finished.
 
 I hope you read something new this week!
 
-- Curtis 
+\- Curtis 
 
 P.S. If any of you love Clairo's music, please talk to me about it! It's all I've been listening to for the past week <3
