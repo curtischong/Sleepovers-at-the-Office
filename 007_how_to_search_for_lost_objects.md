@@ -15,11 +15,10 @@ A feasible solution would be to train multiple networks to recognize object desc
 
 
 These networks should identify:
-
-Items of different shapes.
-Items of different colours.
-Items of different sizes.
-Items of different materials.
+- Items of different shapes.
+- Items of different colours.
+- Items of different sizes.
+- Items of different materials.
 
 The cherry on top would be a "confirmation object" from Google Images that helps us verify the accuracy of our item description.
 <br>
