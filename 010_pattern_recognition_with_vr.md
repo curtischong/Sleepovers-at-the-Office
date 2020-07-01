@@ -13,3 +13,19 @@ VR headsets can simulate an entire chessboard and overlay computer-suggested mov
 I hope you'll study well this week!
 
 \- Curtis
+
+# Author's Amendments
+Tbh this issue sounds quite bland. It's basically a glorified Tabletop Simulator mixed in with Stockfish analysis.
+But I was super surprised when I heard about this problem. Like think about it. There are problems that people would consider solved because we can put it on a 2D screen. However, Maxime helps us realize that flat icons mess with our innate ability to recognize patterns.
+
+That's crazy! A human being has trouble recognizing patterns.
+
+Do soccer players have hard times following game plans because they can't recognize their position in relation to a bird's eye view of the field?
+
+What patterns am I missing when things are presented in a different dimension?
+
+When my eyes are really fatigued, I try to write code with only one eye. However, I tend to miss a lot of glaring compilation errors with only one eye open. This makes no sense because my code is on a 2D screen.
+
+Perhaps my pattern recognition for syntactical patterns is wired to sensitive changes in depth. With only one eye to scan for errors, I lose most of my pattern recognition abilities.
+
+I can talk about this all day, but I hope that this amendment will broaden the ideas you have on the delicacy of pattern recognition.
