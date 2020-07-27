@@ -49,3 +49,13 @@ Personal document search is an unsolved problem, and it's possibly even harder t
 
 Get some great soul searching done this week!
 \- Curtis
+
+## Author's Amendments
+
+In the sorting chapter of Algorithms to Live By, they mention that a linear search
+across your "most recently opened" file list is the fastest way to find the document you need.
+It's even faster than traversing a file tree.
+
+After writing this newsletter, I organized some files on my computer, which messed up my "recently used" list since I had to open files and assess if I should delete them. This caused a problem because it polluted my "recently used" list with random files.
+
+So another way that Google Drive and macOS can improve search is to detect when you are organizing files and temporarily disable adding files to your most recent list.
