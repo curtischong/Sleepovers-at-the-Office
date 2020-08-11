@@ -3,7 +3,7 @@
 Morning all!
 
 
-The FBI uses the following formula to negotiate for hostages at the lowest price. They first lowball their offer at 65% of what their goal, then raise it to 85%, 95%, and 100%. This calculation makes it look like each concession squeezes their budget dry. But if you're using this formula, can you calculate 65% of $73,000 on the fly?
+The FBI uses the following formula to negotiate for hostages at the lowest price. They first lowball their offer at 65% of their goal, then raise it to 85%, 95%, and 100%. This calculation makes it look like each concession squeezes their budget dry. But if you're using this formula, can you calculate 65% of $73,000 on the fly?
  
 
 Here's another situation, say you're an investor from Mithril probing for a startup's runway. You may have a personal formula to gauge their effective burn using a variety of metrics that depends on some Erlang distribution.
