@@ -1,4 +1,4 @@
-# An Intern in Your IDE
+# Fine-tuning Your Flow State
 
 Morning guys!
 
