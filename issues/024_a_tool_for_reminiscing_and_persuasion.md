@@ -30,7 +30,7 @@ Researchers can already implant fake childhood memories into people. What would 
 The technology to build and abuse this tool exists today. Let's hope a good person controls it first, whatever good means to you.
 
 
-- Curtis
+\- Curtis
 
 
 P.S. Sorry for the dark tone of this newsletter. I consumed all of Attack on Titan this week, and all I have are gloomy plot predictions. I guess the influence of that series strengthens my conclusion.
