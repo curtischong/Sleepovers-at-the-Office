@@ -12,6 +12,12 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 ## The Complete List
 
+#28 [Ideas to Alleviate Eye Strain](issues/028_ideas_to_alleviate_eye_strain.md)
+
+#27 [Showing Info in Underlined Text](issues/027_showing_info_in_underlined_text.md)
+
+#26 [Tools to Undermine Biased Graphs](issues/026_tools_to_undermine_biased_graphs.md)
+
 #25 [Sharing Opinions with Formulas](issues/025_sharing_opinions_with_formulas.md)
 
 #24 [A Tool for Reminiscing and Persuasion](issues/024_a_tool_for_reminiscing_and_persuasion.md)
