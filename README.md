@@ -11,6 +11,11 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 - [A Tool That Helps You Write Better](issues/013_a_tool_that_helps_you_write_better.md)
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 ## The Complete List
+#31 [Pop Quizzes to Learn From Books](issues/031_pop_quizes_to_learn_from_books.md)
+
+#30 [Manual Recommendation Systems](issues/030_manual_recommendation_systems.md)
+
+#29 [Underlines to Help Speed Read](issues/029_underlines_to_help_speed_read.md)
 
 #28 [Ideas to Alleviate Eye Strain](issues/028_ideas_to_alleviate_eye_strain.md)
 
