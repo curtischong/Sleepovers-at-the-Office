@@ -25,3 +25,10 @@ A website that shows the impact of your giving would be more fun than Addapar be
 Have a great week!
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='016_your_ac_works_too_hard.md'>#16: Your AC Works Too Hard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='018_the_shortcomings_of_google_drives_search.md'>#18:  The Shortcomings of Google Drive's Search</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

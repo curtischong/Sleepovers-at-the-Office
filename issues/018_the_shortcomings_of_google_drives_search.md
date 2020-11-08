@@ -59,3 +59,10 @@ It's even faster than traversing a file tree.
 After writing this newsletter, I organized some files on my computer, which messed up my "recently used" list since I had to open files and assess if I should delete them. This caused a problem because it polluted my "recently used" list with random files.
 
 So another way that Google Drive and macOS can improve search is to detect when you are organizing files and temporarily disable adding files to your most recent list.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='017_addepar_for_philanthropy.md'>#17: Addepar for Philanthropy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='019_search_via_dynamic_file_trees.md'>#19: Search via Dynamic File Trees</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

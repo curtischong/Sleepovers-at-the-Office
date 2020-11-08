@@ -35,3 +35,10 @@ P.S. This idea came to mind after watching this Ted Talk: [youtube.com/watch?v=I
 For those of you who wonder, "but if the object is covered, how will our cameras find it?"
 
 The solution to this problem is to comb through recordings of our video. This means that we don't have to see an object to know where it is presently. We can retroactively search through hours of footage with our networks to see where the item last was.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='006_journaling_from_the_future.md'>#6: Journaling from the Future</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='008_decoration_should_present_information.md'>#8: Decoration Should Present Information</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

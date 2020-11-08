@@ -18,3 +18,10 @@ It may ask you questions like:
 I hope you write delightful documentation this week :)
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='001_a_search_engine_for_story_ideas.md'>#1: A Search Engine for Story Ideas</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='003_fine_tuning_your_flow_state.md'>#3: Fine-tuning Your Flow State</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

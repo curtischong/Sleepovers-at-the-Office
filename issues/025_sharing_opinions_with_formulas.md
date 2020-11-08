@@ -38,3 +38,10 @@ Here are more features I'd want the site to have:
 P.S. I love how there are formulas to determine "whiteness": [en.wikipedia.org/wiki/Color_difference](https://en.wikipedia.org/wiki/Color_difference)
 
 P.P.S. coversFingers is a boolean value. We'll add 0.3 to the score if the glove covers your fingers.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='024_a_tool_for_reminiscing_and_persuasion.md'>#24: A Tool for Reminiscing and Persuasion</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='026_tools_to_undermine_biased_graphs.md'>#26: Tools to Undermine Biased Graphs</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

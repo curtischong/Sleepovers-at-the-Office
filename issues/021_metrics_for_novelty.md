@@ -34,3 +34,10 @@ I hope that you discover brilliant names this week.
 P.S. I found the name "Pro-Plague" on a YouTube comment, I don't deserve any credit.
 
 P.P.S. I know that "plague" is an extremely inaccurate name to describe many diseases, but I think that being overly technical will weaken the delivery of the message.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='020_cybersecurity_for_consumers.md'>#20: Cybersecurity for Consumers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='022_measuring_emotional_weight.md'>#22: Measuring Emotional Weight</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

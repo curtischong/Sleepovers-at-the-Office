@@ -21,3 +21,10 @@ Maybe those receipts are best left forgotten until April 29th (the day before yo
 For now, we'll have to live with these emotional burdens... or hammer these features out with Chrome extensions.
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='014_conversational_calculators.md'>#14: Conversational Calculators</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='016_your_ac_works_too_hard.md'>#16: Your AC Works Too Hard</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

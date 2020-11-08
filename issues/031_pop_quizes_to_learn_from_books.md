@@ -23,3 +23,10 @@ Have a great week!
 \- Curtis
 
 P.S. If you liked How to Win Friends and Influence People, you can access my complete question list for the book here: https://docs.google.com/spreadsheets/d/1IVOEvlTPEXT4wYtke9AcS6d4xh5CwTxLnHQcaW0rMbo/edit
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='030_manual_recommendation_systems.md'>#30: Manual Recommendation Systems</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

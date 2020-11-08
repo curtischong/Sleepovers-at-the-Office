@@ -25,3 +25,10 @@ I hope you read something new this week!
 \- Curtis 
 
 P.S. If any of you love Clairo's music, please talk to me about it! It's all I've been listening to for the past week <3
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='012_how_to_frame_your_photo_at_the_sydney_opera_house.md'>#12: How to Frame Your Photo at the Sydney Opera House</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='014_conversational_calculators.md'>#14: Conversational Calculators</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

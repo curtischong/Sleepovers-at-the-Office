@@ -64,3 +64,10 @@ The Pitfalls
 I hope you find that song to obsess over this week!
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='018_the_shortcomings_of_google_drives_search.md'>#18:  The Shortcomings of Google Drive's Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='020_cybersecurity_for_consumers.md'>#20: Cybersecurity for Consumers</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

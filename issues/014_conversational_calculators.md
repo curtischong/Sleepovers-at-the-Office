@@ -44,3 +44,10 @@ If you're not sold, you're not alone, I'm terrible at explaining things. Here ar
     - A cool feature of the website would be to view historical calculations to compare different scenarios.
 - The negotiation example is a bit weak since the formula is simple, and you typically go into negotiations with a number in mind.
     - However, when you're in negotiations, sometimes you'll learn new information that tells you that you can get an even better deal than what you've prepared for.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='013_a_tool_that_helps_you_write_better.md'>#13: A Tool That Helps You Write Better</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='015_forgetting.md'>#15: Forgetting</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

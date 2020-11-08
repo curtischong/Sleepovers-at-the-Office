@@ -35,4 +35,10 @@ Unless you're a big tech company that knows the shows we watch and the comments 
  
 
     - Curtis
- 
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='021_metrics_for_novelty.md'>#21: Metrics for Novelty</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='023_grammarly_on_the_apple_glass.md'>#23: Grammarly on the Apple Glass</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

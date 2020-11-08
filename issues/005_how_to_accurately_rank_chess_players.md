@@ -27,3 +27,10 @@ This week I challenge you to develop a formula that can accurately identify one'
 I wish you the best of luck. Tackle this week with your A-game.
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='004_chrome_extensions_for_messaging_apps.md'>#4: Chrome Extensions for Messaging Apps</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='006_journaling_from_the_future.md'>#6: Journaling from the Future</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

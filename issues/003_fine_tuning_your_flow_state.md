@@ -18,3 +18,10 @@ It's a great service but I couldn't bear missing my favourite Taylor Swift album
 Get tons of work done this week!
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='002_an_intern_in_your_ide.md'>#2: An Intern in Your IDE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='004_chrome_extensions_for_messaging_apps.md'>#4: Chrome Extensions for Messaging Apps</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

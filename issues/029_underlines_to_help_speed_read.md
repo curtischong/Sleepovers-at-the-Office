@@ -38,3 +38,10 @@ I also like this idea because it keeps the website's layout intact. By using the
 I'm quite willing to put together a prototype for this idea, but I'm doing a bit of Thinking Fast and Slow before I start.
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='028_ideas_to_alleviate_eye_strain.md'>#28: Ideas to Alleviate Eye Strain</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='030_manual_recommendation_systems.md'>#30: Manual Recommendation Systems</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

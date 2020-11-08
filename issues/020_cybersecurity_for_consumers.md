@@ -34,3 +34,10 @@ But no startup has a long enough runway to educate a target market large enough 
 Anyway, I hope you'll spend more time thinking about security this week!
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='019_search_via_dynamic_file_trees.md'>#19: Search via Dynamic File Trees</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='021_metrics_for_novelty.md'>#21: Metrics for Novelty</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

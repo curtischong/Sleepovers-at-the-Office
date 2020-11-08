@@ -27,3 +27,10 @@ Other considerations:
 Seize some great shots this week.
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='011_gossip_thats_stronger_than_liquor.md'>#11: Gossip That's Stronger than Liquor</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='013_a_tool_that_helps_you_write_better.md'>#13: A Tool That Helps You Write Better</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

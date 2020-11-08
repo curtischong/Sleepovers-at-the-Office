@@ -34,3 +34,10 @@ If I've won you over on the potential of chat extensions, check out my open-sour
 Have fantastic conversations this week,
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='003_fine_tuning_your_flow_state.md'>#3: Fine-tuning Your Flow State</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='005_how_to_accurately_rank_chess_players.md'>#5: How to Accurately Rank Chess Players</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

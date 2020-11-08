@@ -35,3 +35,10 @@ I love language, and I hope you loved reading this.
 P.S. It's been half a year since I started Sleepovers at the Office. Thank you so much for reading all of these editions! I have a blast writing them, and I hope they've brought some kind of value to your life.
 
 P.P..S The word substitutions from this newsletter came from this article: https://www.tomedes.com/translator-hub/overused-words-english-translation. There are a lot more substitutions for overused words in there so take a look :)
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='022_measuring_emotional_weight.md'>#22: Measuring Emotional Weight</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='024_a_tool_for_reminiscing_and_persuasion.md'>#24: A Tool for Reminiscing and Persuasion</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

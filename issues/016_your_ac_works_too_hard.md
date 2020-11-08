@@ -22,3 +22,10 @@ Get some fresh air on a morning run this week!
 
 
 P.S. I wasn't going to release this idea because it didn't feel relevant to this newsletter's theme. This all changed after hearing about TED's Countdown Project (to cut global emissions in half by 2030). We gotta start somewhere.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='015_forgetting.md'>#15: Forgetting</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='017_addepar_for_philanthropy.md'>#17: Addepar for Philanthropy</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

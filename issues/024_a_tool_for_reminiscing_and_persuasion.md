@@ -34,3 +34,10 @@ The technology to build and abuse this tool exists today. Let's hope a good pers
 
 
 P.S. Sorry for the dark tone of this newsletter. I consumed all of Attack on Titan this week, and all I have are gloomy plot predictions. I guess the influence of that series strengthens my conclusion.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='023_grammarly_on_the_apple_glass.md'>#23: Grammarly on the Apple Glass</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='025_sharing_opinions_with_formulas.md'>#25: Sharing Opinions with Formulas</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

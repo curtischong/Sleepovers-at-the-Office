@@ -29,3 +29,10 @@ When my eyes are really fatigued, I try to write code with only one eye. However
 Perhaps my pattern recognition for syntactical patterns is wired to sensitive changes in depth. With only one eye to scan for errors, I lose most of my pattern recognition abilities.
 
 I can talk about this all day, but I hope that this amendment will broaden the ideas you have on the delicacy of pattern recognition.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='009_youtube_for_newsletters.md'>#9: YouTube for Newsletters</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='011_gossip_thats_stronger_than_liquor.md'>#11: Gossip That's Stronger than Liquor</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

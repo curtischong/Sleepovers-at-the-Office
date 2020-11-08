@@ -18,4 +18,10 @@ Last but not least, my third wish is for you to have a great week :)
 
 
 \- Curtis
- 
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='025_sharing_opinions_with_formulas.md'>#25: Sharing Opinions with Formulas</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='027_showing_info_in_underlined_text.md'>#27: Showing Info in Underlined Text</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

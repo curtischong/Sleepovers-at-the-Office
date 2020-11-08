@@ -60,3 +60,10 @@ That's how you build an activist geek
 
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='010_pattern_recognition_with_vr.md'>#10: Pattern Recognition With VR</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='012_how_to_frame_your_photo_at_the_sydney_opera_house.md'>#12: How to Frame Your Photo at the Sydney Opera House</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

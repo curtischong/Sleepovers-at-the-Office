@@ -17,3 +17,10 @@ Yes, authors may end up with MORE fragmented ideas if they mash a dozen ideas in
 I hope you have great reads this week!
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='002_an_intern_in_your_ide.md'>#2: An Intern in Your IDE</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->

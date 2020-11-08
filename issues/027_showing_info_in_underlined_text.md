@@ -32,3 +32,10 @@ Another way to express more information is by elongating the notifs. This can co
 I'm really excited to show you my text editor. I'll see you next week!
 
 \- Curtis
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='026_tools_to_undermine_biased_graphs.md'>#26: Tools to Undermine Biased Graphs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='028_ideas_to_alleviate_eye_strain.md'>#28: Ideas to Alleviate Eye Strain</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->
