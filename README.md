@@ -11,6 +11,9 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 - [A Tool That Helps You Write Better](issues/013_a_tool_that_helps_you_write_better.md)
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 ## The Complete List
+
+#32 [Using Knowledge Graphs to Learn from Others](issues/032_using_knowledge_graphs_to_learn_from_others.md)
+
 #31 [Pop Quizzes to Learn From Books](issues/031_pop_quizes_to_learn_from_books.md)
 
 #30 [Manual Recommendation Systems](issues/030_manual_recommendation_systems.md)
