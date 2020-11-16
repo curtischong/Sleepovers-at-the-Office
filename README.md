@@ -12,6 +12,8 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 ## The Complete List
 
+#33 [Using Knowledge Graphs to Prioritize Learning](issues/033_using_knowledge_graphs_to_prioritize_learning.md)
+
 #32 [Using Knowledge Graphs to Learn from Others](issues/032_using_knowledge_graphs_to_learn_from_others.md)
 
 #31 [Pop Quizzes to Learn From Books](issues/031_pop_quizes_to_learn_from_books.md)
