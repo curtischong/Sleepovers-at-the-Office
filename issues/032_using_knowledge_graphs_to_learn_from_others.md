@@ -40,6 +40,6 @@ I hope you call a friend this week and have great conversations.
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='031_pop_quizes_to_learn_from_books.md'>#31: Pop Quizzes to Learn From Books</a></p>
+<p align="center"><a href='031_pop_quizes_to_learn_from_books.md'>#31: Pop Quizzes to Learn From Books</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='033_using_knowledge_graphs_to_prioritize_learning.md'>#33: Using Knowledge Graphs to Prioritize Learning</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

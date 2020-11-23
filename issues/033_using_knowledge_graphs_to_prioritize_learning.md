@@ -20,3 +20,10 @@ I hope you'll find a resonating Ted Talk this week.
 P.S. This didn't make it into the actual issue, but if we can see the paths of knowledge you took on this graph, can we numerically quantify someone's identity? Of course, this is just a thought experiment bc we can't possibly map out everything someone knows.
 
 P.P.S. What I said above may not make sense even if we know everything that you know since we aren't accounting for how you act, and that's a large part of our identities.
+
+<!--START OF FOOTER-->
+<hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
+<!--START OF ISSUE NAVIGATION LINKS-->
+<p align="center"><a href='032_using_knowledge_graphs_to_learn_from_others.md'>#32: Using Knowledge Graphs to Learn from Others</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='034_drawing_routes_with_what_3_words.md'>#34: Drawing Routes with What 3 Words</a></p>
+<!--START OF ISSUE NAVIGATION LINKS-->
+<!--END OF FOOTER-->
