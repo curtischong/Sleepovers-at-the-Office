@@ -7,14 +7,16 @@ Welcome! This is an archive for my weekly newsletter.
 If you love reading about project ideas, you can sign up here: [chongcurtis.com/sleepovers](https://chongcurtis.com/sleepovers)
 
 ## Our Favourite Editions
-- [Chrome Extensions for Messaging Apps](issues/004_chrome_extensions_for_messaging_apps.md)
-- [A Tool That Helps You Write Better](issues/013_a_tool_that_helps_you_write_better.md)
+- [Technical Interviews for Writing Pull Requests](issues/035_technical_interviews_for_writing_pull_requests.md)
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
+- [A Tool That Helps You Write Better](issues/013_a_tool_that_helps_you_write_better.md)
+- [Chrome Extensions for Messaging Apps](issues/004_chrome_extensions_for_messaging_apps.md)
+
 ## The Complete List
 
 <!--START OF TABLE OF CONTENTS-->
 
-#35 [Technical Interviews to Evaluate PR Management](issues/035_technical_interviews_to_evaluate_pr_management.md)
+#35 [Technical Interviews for Writing Pull Requests](issues/035_technical_interviews_for_writing_pull_requests.md)
 
 #34 [Drawing Routes with What 3 Words](issues/034_drawing_routes_with_what_3_words.md)
 

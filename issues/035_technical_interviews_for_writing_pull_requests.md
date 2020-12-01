@@ -1,10 +1,13 @@
-# Technical Interviews to Evaluate PR Management
+# Technical Interviews for Writing Pull Requests
 Pull requests consumes hours of an engineer's time, which is why the best engineers are those that manage their pull requests well.
 
 I believe that making your code easily reviewable can significantly improve cohesion in a software engineering team. However, recruiters never consider this when hiring.
 
 So I'll propose a new type of interview that directly evaluates how well an engineer works with others.
 
+Instead of coding algorithms from scratch, candidates should modify existing code by submitting PRs.
+
+This can help us answer questions like:
 - Do they put Github Comments to explain where they moved functions? Which objects have gained/lost access due to this change, and why?
 - Do they refactor code in a separate PR BEFORE adding logic?
     - It's quite hard to understand what's happening if your PR refactors a lot of logic and adds new logic at the same time.
@@ -14,7 +17,7 @@ So I'll propose a new type of interview that directly evaluates how well an engi
 There are two problems with this approach:
 
 1) To evaluate how well someone manages PRs, you need them to submit a relatively large PR.
-2) The engineer needs a solid understanding of the codebase before they can submit a considering PR.
+2) The engineer needs a solid understanding of the codebase before they can submit a thoughtful PR for reviewers.
 
 I don't think we can solve 1) in a technical interview, there's just not much time.
 
