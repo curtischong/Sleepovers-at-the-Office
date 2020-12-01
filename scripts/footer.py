@@ -60,3 +60,4 @@ files = read_files()
 files = [remove_footer(f) for f in files]
 files = append_footers(files)
 write_files(files)
+print("finished generating footer")

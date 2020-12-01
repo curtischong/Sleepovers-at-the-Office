@@ -30,6 +30,10 @@ class File:
         return title[2:] # remove the "# "
 
 def read_files():
+    abspath = os.path.abspath(__file__)
+    dname = os.path.dirname(abspath)
+    os.chdir(dname)
+
     files = []
     for path in glob.glob(ISSUES_DIR + "*"):
         f = File(path)

@@ -43,3 +43,4 @@ table_of_contents = get_table_of_contents(files)
 readme_content = get_readme_content()
 content = readme_content + table_of_contents + "\n\n" + END_OF_TABLE_OF_CONTENTS
 write_table_of_contents(content)
+print("finished generating table of contents")
