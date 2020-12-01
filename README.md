@@ -12,6 +12,10 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 ## The Complete List
 
+<!--START OF TABLE OF CONTENTS-->
+
+#35 [Technical Interviews to Evaluate PR Management](issues/035_technical_interviews_to_evaluate_pr_management.md)
+
 #34 [Drawing Routes with What 3 Words](issues/034_drawing_routes_with_what_3_words.md)
 
 #33 [Using Knowledge Graphs to Prioritize Learning](issues/033_using_knowledge_graphs_to_prioritize_learning.md)
@@ -44,7 +48,7 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 
 #19 [Search via Dynamic File Trees](issues/019_search_via_dynamic_file_trees.md)
 
-#18 [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
+#18 [ The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 
 #17 [Addepar for Philanthropy](issues/017_addepar_for_philanthropy.md)
 
@@ -74,8 +78,10 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 
 #4 [Chrome Extensions for Messaging Apps](issues/004_chrome_extensions_for_messaging_apps.md)
 
-#3 [Fine-tuning Your Flow State ](issues/003_fine_tuning_your_flow_state.md)
+#3 [Fine-tuning Your Flow State](issues/003_fine_tuning_your_flow_state.md)
 
 #2 [An Intern in Your IDE](issues/002_an_intern_in_your_ide.md)
 
 #1 [A Search Engine for Story Ideas](issues/001_a_search_engine_for_story_ideas.md)
+
+<!--END OF TABLE OF CONTENTS-->

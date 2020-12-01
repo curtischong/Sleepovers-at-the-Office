@@ -1,34 +1,7 @@
 # The goal of this script is to append the footer to every issue
 # If a footer already exists, this file will delete and regenerate a footer for that issue
 
-import glob
-import os
-from operator import attrgetter
-
-ISSUES_DIR = "../issues/"
-class File:
-    filename = ''
-    issue_number = 0
-    contents = ''
-
-def get_issue_number(f):
-    code = f.filename[:3]
-    # get rid of leading 0s
-    for i in range(len(code)):
-        if code[i] != '0':
-            return code[i:]
-    return -1
-
-def read_files():
-    files = []
-    for path in glob.glob(ISSUES_DIR + "*"):
-        f = File()
-        f.filename = os.path.basename(path)
-        f.issue_number = get_issue_number(f)
-        with open(path) as fn:
-            f.contents = fn.read()
-        files.append(f)
-    return sorted(files, key=attrgetter("filename"))
+from common import *
 
 FOOTER_START = "<!--START OF FOOTER-->"
 FOOTER_END = "<!--END OF FOOTER-->"
@@ -53,12 +26,10 @@ footer = """
 
 
 def get_naviation_link(f):
-    title = f.contents.split("\n")[0] # get the first line
-    title = title[2:] # remove the "# "
     return "<a href='{filename}'>#{issue_number}: {title}</a>".format(
         filename=f.filename,
         issue_number=f.issue_number,
-        title=title,
+        title=f.title,
     )
 
 def append_footers(files):
