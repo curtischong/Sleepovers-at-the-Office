@@ -30,8 +30,9 @@ To solve 2), we can ask them to make additions to famous algorithms. For example
 I like this kind of technical interview more since the underlying algorithm is already provided.
 
 What we have now is an interview that tests their ability to:
-	1) Adapt code for our use case.
-	2) Communicate their work with other team members.
+
+1) Adapt code for our use case.
+2) Communicate their work with other team members.
 
 One of my dreams is to have an intern of my own one day. So if you're reading this, I hope you brushed up on writing PRs!
 
