@@ -1,5 +1,5 @@
 # Technical Interviews for Writing Pull Requests
-Pull requests consumes hours of an engineer's time, which is why the best engineers are those that manage their pull requests well.
+Reviewing pull requests can take hours out of an engineer's day, which is why the best engineers are those that manage their pull requests well.
 
 I believe that making your code easily reviewable can significantly improve cohesion in a software engineering team. However, recruiters never consider this when hiring.
 
