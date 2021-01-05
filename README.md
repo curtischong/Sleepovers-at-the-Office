@@ -16,6 +16,14 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 
 <!--START OF TABLE OF CONTENTS-->
 
+#39 [A Metric to Replace Test Coverage](issues/039_a_metric_to_replace_test_coverage.md)
+
+#38 [A New Art Style: Particle Effects](issues/038_a_new_art_style_particle_effects.md)
+
+#37 [QR Codes for Robotic Construction](issues/037_qr_codes_for_robotic_construction.md)
+
+#36 [Designing Logos by Playing with Blocks](issues/036_designing_logos_by_playing_with_blocks.md)
+
 #35 [Technical Interviews for Writing Pull Requests](issues/035_technical_interviews_for_writing_pull_requests.md)
 
 #34 [Drawing Routes with What 3 Words](issues/034_drawing_routes_with_what_3_words.md)

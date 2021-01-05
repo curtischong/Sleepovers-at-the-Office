@@ -20,6 +20,7 @@ On the sidebar of your messenger chats?
 Nobody likes extra work, but I believe that reviewing your books with quizzes is one of the best ways to learn.
 
 Have a great week!
+
 \- Curtis
 
 P.S. If you liked How to Win Friends and Influence People, you can access my complete question list for the book here: https://docs.google.com/spreadsheets/d/1IVOEvlTPEXT4wYtke9AcS6d4xh5CwTxLnHQcaW0rMbo/edit

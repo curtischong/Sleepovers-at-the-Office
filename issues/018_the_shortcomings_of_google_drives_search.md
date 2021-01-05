@@ -48,6 +48,7 @@ With perfect search, we can go a step further. We can fulfill the true premise o
 Personal document search is an unsolved problem, and it's possibly even harder than an internet search. So we shouldn't be too hard on the Drive team because they probably have many infra fires to put out.
 
 Get some great soul searching done this week!
+
 \- Curtis
 
 ## Author's Amendments
