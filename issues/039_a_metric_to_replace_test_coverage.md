@@ -47,6 +47,6 @@ Here's to having tests taking over our entire lives, and I hope you have a wonde
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='038_a_new_art_style_particle_effects.md'>#38: A New Art Style: Particle Effects</a></p>
+<p align="center"><a href='038_a_new_art_style_particle_effects.md'>#38: A New Art Style: Particle Effects</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='040_prompts_to_help_creatives_think.md'>#40: Prompts to Help Creatives Think</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

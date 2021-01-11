@@ -16,6 +16,8 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 
 <!--START OF TABLE OF CONTENTS-->
 
+#40 [Prompts to Help Creatives Think](issues/040_prompts_to_help_creatives_think.md)
+
 #39 [A Metric to Replace Test Coverage](issues/039_a_metric_to_replace_test_coverage.md)
 
 #38 [A New Art Style: Particle Effects](issues/038_a_new_art_style_particle_effects.md)
