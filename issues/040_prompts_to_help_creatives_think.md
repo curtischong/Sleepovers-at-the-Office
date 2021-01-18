@@ -36,6 +36,6 @@ I hope to set up this infrastructure one day, and I'll tell you how I feel about
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='039_a_metric_to_replace_test_coverage.md'>#39: A Metric to Replace Test Coverage</a></p>
+<p align="center"><a href='039_a_metric_to_replace_test_coverage.md'>#39: A Metric to Replace Test Coverage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='041_how_tech_can_select_12_angry_men.md'>#41: How Tech can Select 12 Angry Men</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

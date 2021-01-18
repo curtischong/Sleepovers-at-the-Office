@@ -16,6 +16,8 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 
 <!--START OF TABLE OF CONTENTS-->
 
+#41 [How Tech can Select 12 Angry Men](issues/041_how_tech_can_select_12_angry_men.md)
+
 #40 [Prompts to Help Creatives Think](issues/040_prompts_to_help_creatives_think.md)
 
 #39 [A Metric to Replace Test Coverage](issues/039_a_metric_to_replace_test_coverage.md)
