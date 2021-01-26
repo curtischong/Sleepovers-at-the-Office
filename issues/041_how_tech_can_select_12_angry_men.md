@@ -40,6 +40,6 @@ P.S. I just finished The Catcher in the Rye, and it's phenomenal. You have to re
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='040_prompts_to_help_creatives_think.md'>#40: Prompts to Help Creatives Think</a></p>
+<p align="center"><a href='040_prompts_to_help_creatives_think.md'>#40: Prompts to Help Creatives Think</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='042_is_production_on_fire_help_your_interns_improve_by_taking_a_vacation.md'>#42: Is Production on Fire? Help Your Interns Improve by Taking a Vacation</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

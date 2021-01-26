@@ -16,6 +16,8 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 
 <!--START OF TABLE OF CONTENTS-->
 
+#42 [Is Production on Fire? Help Your Interns Improve by Taking a Vacation](issues/042_is_production_on_fire_help_your_interns_improve_by_taking_a_vacation.md)
+
 #41 [How Tech can Select 12 Angry Men](issues/041_how_tech_can_select_12_angry_men.md)
 
 #40 [Prompts to Help Creatives Think](issues/040_prompts_to_help_creatives_think.md)
