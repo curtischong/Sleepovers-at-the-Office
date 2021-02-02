@@ -2,11 +2,12 @@
   <img src="assets/title.jpg" alt="Sleepovers at the Office" width="600"/>
 </p>
 
-Welcome! This is an archive for my weekly newsletter.
+Hey, thanks for checking this out! This is my archive for Sleepovers. There's a lot of random ideas in here. And if you work on any of them, tell me about it! I'd love to hear how it's going.
 
-If you love reading about project ideas, you can sign up here: [chongcurtis.com/sleepovers](https://chongcurtis.com/sleepovers)
+I try my best to keep this page updated, but if you want them delivered straight to your inbox, you can sign up here: [chongcurtis.com/sleepovers](https://chongcurtis.com/sleepovers)
 
 ## Our Favourite Editions
+
 - [Technical Interviews for Writing Pull Requests](issues/035_technical_interviews_for_writing_pull_requests.md)
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 - [A Tool That Helps You Write Better](issues/013_a_tool_that_helps_you_write_better.md)
@@ -15,6 +16,8 @@ If you love reading about project ideas, you can sign up here: [chongcurtis.com/
 ## The Complete List
 
 <!--START OF TABLE OF CONTENTS-->
+
+#43 [My Failed Attempt at Finding Love](issues/043_my_failed_attempt_at_finding_love.md)
 
 #42 [Is Production on Fire? Help Your Interns Improve by Taking a Vacation](issues/042_is_production_on_fire_help_your_interns_improve_by_taking_a_vacation.md)
 

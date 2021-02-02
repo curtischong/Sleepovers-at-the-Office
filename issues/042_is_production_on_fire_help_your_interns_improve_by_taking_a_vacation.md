@@ -61,6 +61,6 @@ P.P.S. This newsletter sounds a lot like the book Player Piano. Although I haven
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='041_how_tech_can_select_12_angry_men.md'>#41: How Tech can Select 12 Angry Men</a></p>
+<p align="center"><a href='041_how_tech_can_select_12_angry_men.md'>#41: How Tech can Select 12 Angry Men</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='043_my_failed_attempt_at_finding_love.md'>#43: My Failed Attempt at Finding Love</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
