@@ -17,6 +17,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#44 [A Startup to (Hopefully) End Racism](issues/044_a_startup_to_hopefully_end_racism.md)
+
 #43 [My Failed Attempt at Finding Love](issues/043_my_failed_attempt_at_finding_love.md)
 
 #42 [Is Production on Fire? Help Your Interns Improve by Taking a Vacation](issues/042_is_production_on_fire_help_your_interns_improve_by_taking_a_vacation.md)

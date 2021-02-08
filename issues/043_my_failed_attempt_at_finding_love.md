@@ -55,6 +55,6 @@ I hope this time I'll actually say hi. Oh wait, maybe I already did. Until next 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='042_is_production_on_fire_help_your_interns_improve_by_taking_a_vacation.md'>#42: Is Production on Fire? Help Your Interns Improve by Taking a Vacation</a></p>
+<p align="center"><a href='042_is_production_on_fire_help_your_interns_improve_by_taking_a_vacation.md'>#42: Is Production on Fire? Help Your Interns Improve by Taking a Vacation</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='044_a_startup_to_hopefully_end_racism.md'>#44: A Startup to (Hopefully) End Racism</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
