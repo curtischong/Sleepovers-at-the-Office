@@ -17,6 +17,10 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#46 [Highlighting Quotes in Podcasts](issues/046_highlighting_quotes_in_podcasts.md)
+
+#45 [I Want to Send You a Gift, but I Don't Know Your Address](issues/045_i_want_to_send_you_a_gift_but_i_dont_know_your_address.md)
+
 #44 [A Startup to (Hopefully) End Racism](issues/044_a_startup_to_hopefully_end_racism.md)
 
 #43 [My Failed Attempt at Finding Love](issues/043_my_failed_attempt_at_finding_love.md)

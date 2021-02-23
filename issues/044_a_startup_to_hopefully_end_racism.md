@@ -35,6 +35,6 @@ P.S. Here is the part in the interview where Daryl mentions that solving individ
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='043_my_failed_attempt_at_finding_love.md'>#43: My Failed Attempt at Finding Love</a></p>
+<p align="center"><a href='043_my_failed_attempt_at_finding_love.md'>#43: My Failed Attempt at Finding Love</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='045_i_want_to_send_you_a_gift_but_i_dont_know_your_address.md'>#45: I Want to Send You a Gift, but I Don't Know Your Address</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
