@@ -15,6 +15,6 @@ Man, I wish I could write a pull request and implement this change myself becaus
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='045_i_want_to_send_you_a_gift_but_i_dont_know_your_address.md'>#45: I Want to Send You a Gift, but I Don't Know Your Address</a></p>
+<p align="center"><a href='045_i_want_to_send_you_a_gift_but_i_dont_know_your_address.md'>#45: I Want to Send You a Gift, but I Don't Know Your Address</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='047_a_search_engine_for_the_illiterate.md'>#47: A Search Engine for the Illiterate</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

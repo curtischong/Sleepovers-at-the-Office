@@ -17,6 +17,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#47 [A Search Engine for the Illiterate](issues/047_a_search_engine_for_the_illiterate.md)
+
 #46 [Highlighting Quotes in Podcasts](issues/046_highlighting_quotes_in_podcasts.md)
 
 #45 [I Want to Send You a Gift, but I Don't Know Your Address](issues/045_i_want_to_send_you_a_gift_but_i_dont_know_your_address.md)
