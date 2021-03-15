@@ -17,6 +17,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#48 [Bullet Points ⇒ Better Reading](issues/048_bullet_points_implies_better_reading.md)
+
 #47 [A Search Engine for the Illiterate](issues/047_a_search_engine_for_the_illiterate.md)
 
 #46 [Highlighting Quotes in Podcasts](issues/046_highlighting_quotes_in_podcasts.md)
