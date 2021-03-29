@@ -17,6 +17,10 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#50 [Offering Forgiveness in Budgeting Apps](issues/050_offering_forgiveness_in_budgeting_apps.md)
+
+#49 [Whoa, Slow Down. That Car's Having a Bad Day](issues/049_whoa_slow_down_that_cars_having_a_bad_day.md)
+
 #48 [Bullet Points ⇒ Better Reading](issues/048_bullet_points_implies_better_reading.md)
 
 #47 [A Search Engine for the Illiterate](issues/047_a_search_engine_for_the_illiterate.md)

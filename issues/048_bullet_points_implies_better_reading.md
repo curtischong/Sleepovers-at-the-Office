@@ -43,6 +43,6 @@ So that's why I wish for you to have a week full of wonder, a wonderful week.
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='047_a_search_engine_for_the_illiterate.md'>#47: A Search Engine for the Illiterate</a></p>
+<p align="center"><a href='047_a_search_engine_for_the_illiterate.md'>#47: A Search Engine for the Illiterate</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='049_whoa_slow_down_that_cars_having_a_bad_day.md'>#49: Whoa, Slow Down. That Car's Having a Bad Day</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
