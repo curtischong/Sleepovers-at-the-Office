@@ -8,6 +8,7 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 ## Our Favourite Editions
 
+- [My Failed Attempt at Finding Love](issues/043_my_failed_attempt_at_finding_love.md)
 - [Technical Interviews for Writing Pull Requests](issues/035_technical_interviews_for_writing_pull_requests.md)
 - [The Shortcomings of Google Drive's Search](issues/018_the_shortcomings_of_google_drives_search.md)
 - [A Tool That Helps You Write Better](issues/013_a_tool_that_helps_you_write_better.md)
@@ -16,6 +17,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 ## The Complete List
 
 <!--START OF TABLE OF CONTENTS-->
+
+#51 [When I Fell in Love](issues/051_when_i_fell_in_love.md)
 
 #50 [Offering Forgiveness in Budgeting Apps](issues/050_offering_forgiveness_in_budgeting_apps.md)
 

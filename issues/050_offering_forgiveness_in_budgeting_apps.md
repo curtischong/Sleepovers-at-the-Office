@@ -35,6 +35,6 @@ I hope you enjoy the weather this week!
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='049_whoa_slow_down_that_cars_having_a_bad_day.md'>#49: Whoa, Slow Down. That Car's Having a Bad Day</a></p>
+<p align="center"><a href='049_whoa_slow_down_that_cars_having_a_bad_day.md'>#49: Whoa, Slow Down. That Car's Having a Bad Day</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='051_when_i_fell_in_love.md'>#51: When I Fell in Love</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
