@@ -32,6 +32,8 @@ I hope you enjoy the weather this week!
 
 \- Curtis
 
+P.S. This newsletter was inspired by the conversation about budgeting apps at around 20:38 of this a16z podcast: https://a16z.com/2020/12/07/social-strikes-back-social-meets-fintech/
+
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
