@@ -15,6 +15,7 @@ I hope you'll study well this week!
 \- Curtis
 
 # Author's Amendments
+
 Tbh this issue sounds quite bland. It's basically a glorified Tabletop Simulator mixed in with Stockfish analysis.
 But I was super surprised when I heard about this problem. Like think about it. There are problems that people would consider solved because we can put it on a 2D screen. However, Maxime helps us realize that flat icons mess with our innate ability to recognize patterns.
 
@@ -29,6 +30,8 @@ When my eyes are really fatigued, I try to write code with only one eye. However
 Perhaps my pattern recognition for syntactical patterns is wired to sensitive changes in depth. With only one eye to scan for errors, I lose most of my pattern recognition abilities.
 
 I can talk about this all day, but I hope that this amendment will broaden the ideas you have on the delicacy of pattern recognition.
+
+P.S. You can find Maxime's interview [here](https://youtu.be/mZ_EWAwZYmw?t=275).
 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
