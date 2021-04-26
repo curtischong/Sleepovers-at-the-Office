@@ -79,6 +79,6 @@ P.S. Most of this was written when we were still together. Of course, rhymes don
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='050_offering_forgiveness_in_budgeting_apps.md'>#50: Offering Forgiveness in Budgeting Apps</a></p>
+<p align="center"><a href='050_offering_forgiveness_in_budgeting_apps.md'>#50: Offering Forgiveness in Budgeting Apps</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='052_why_climate_scientists_love_flying.md'>#52: Why Climate Scientists Love Flying</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

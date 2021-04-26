@@ -18,6 +18,10 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#53 [Algorithmically Adding Music to Live Broadcasts](issues/053_algorithmically_adding_music_to_live_broadcasts.md)
+
+#52 [Why Climate Scientists Love Flying](issues/052_why_climate_scientists_love_flying.md)
+
 #51 [When I Fell in Love](issues/051_when_i_fell_in_love.md)
 
 #50 [Offering Forgiveness in Budgeting Apps](issues/050_offering_forgiveness_in_budgeting_apps.md)
