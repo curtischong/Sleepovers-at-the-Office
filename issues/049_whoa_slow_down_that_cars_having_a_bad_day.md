@@ -6,9 +6,10 @@ Tells are quite easy to spot. For example, if someone has given up, they're prob
 
 Emotional drivers also have tells. They may:
 
-Accelerate and break much harder.
-Turn sharper.
-Speed through lights and residential areas.
+- Accelerate and break much harder.
+- Turn sharper.
+- Speed through lights and residential areas.
+
 Tells are important because they help us navigate threats in conversations and dangerous activities like driving.
 
 As of writing, automatic vehicles aren't safe enough to drive in municipal streets.
