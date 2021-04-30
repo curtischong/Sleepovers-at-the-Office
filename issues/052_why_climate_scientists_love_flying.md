@@ -14,16 +14,18 @@ Can an ML model identify our licenses by reading our diaries?
 
 Maybe. But it requires someone to be honest about their intentions in their writing. If they are honest, I think there will be enough context for a program to detect it. However, it's still challenging since the program will have to identify:
 
-An action.
-The moral ambiguity of this action.
-The justification for this morally ambiguous action.
+- An action.
+- The moral ambiguity of this action.
+- The justification for this morally ambiguous action.
+
 But in the meantime, I think the best way to find your moral licenses is to talk to friends about them, even if you think it's a bit personal and naive.
 
 Here are a few I've thought of:
 
-I don't want to help my friend this time because I've already helped them with XYZ.
-I can pirate his work because I publicized it with everyone I know.
-I can see my friend during lockdown because I haven't seen anyone else in the last several months.
+- I don't want to help my friend this time because I've already helped them with XYZ.
+- I can pirate his work because I publicized it with everyone I know.
+- I can see my friend during lockdown because I haven't seen anyone else in the last several months.
+
 Whether your moral licenses are justifiable is up to you. The fun part is seeing them in a list and re-evaluating them with your System 2 (your brain's analytical side).
 
 Anyway, I'll see you next week and good luck with your exams!
