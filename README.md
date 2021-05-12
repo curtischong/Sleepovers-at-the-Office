@@ -18,6 +18,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#55 [Smarter Slack Notifications](issues/055_smarter_slack_notifications.md)
+
 #54 [A DeLorean to Watch Old Shows on Release](issues/054_a_delorean_to_watch_old_shows_on_release.md)
 
 #53 [Algorithmically Adding Music to Live Broadcasts](issues/053_algorithmically_adding_music_to_live_broadcasts.md)

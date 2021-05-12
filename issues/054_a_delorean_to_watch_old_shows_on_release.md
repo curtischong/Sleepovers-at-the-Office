@@ -23,6 +23,6 @@ P.S. If you live in the GTA (and are 18+) you can probably schedule your vaccina
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='053_algorithmically_adding_music_to_live_broadcasts.md'>#53: Algorithmically Adding Music to Live Broadcasts</a></p>
+<p align="center"><a href='053_algorithmically_adding_music_to_live_broadcasts.md'>#53: Algorithmically Adding Music to Live Broadcasts</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='055_smarter_slack_notifications.md'>#55: Smarter Slack Notifications</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
