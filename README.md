@@ -16,6 +16,10 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#57 [Using Neural Nets to Assist Therapists](issues/057_using_neural_nets_to_assist_therapists.md)
+
+#56 [Clicking 1-week Shipping Over 1-day Shipping](issues/056_clicking-1-week-shipping-over-1-day-shipping.md)
+
 #55 [Smarter Slack Notifications](issues/055_smarter_slack_notifications.md)
 
 #54 [A DeLorean to Watch Old Shows on Release](issues/054_a_delorean_to_watch_old_shows_on_release.md)

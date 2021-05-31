@@ -30,6 +30,6 @@ If you work at Slack, I would love it if you pitched this to a PM because I tend
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='054_a_delorean_to_watch_old_shows_on_release.md'>#54: A DeLorean to Watch Old Shows on Release</a></p>
+<p align="center"><a href='054_a_delorean_to_watch_old_shows_on_release.md'>#54: A DeLorean to Watch Old Shows on Release</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='056_clicking-1-week-shipping-over-1-day-shipping.md'>#56: Clicking 1-week Shipping Over 1-day Shipping</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
