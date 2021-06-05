@@ -4,7 +4,7 @@
 
 Hey, thanks for checking this out! This is my archive for Sleepovers. There's a lot of random ideas in here. And if you work on any of them, tell me about it! I'd love to hear how it's going.
 
-I try my best to keep this page updated, but if you want them delivered straight to your inbox, you can sign up here: [chongcurtis.com/sleepovers](https://curtischong.me/sleepovers)
+I try my best to keep this page updated, but if you want them delivered straight to your inbox, you can sign up here: [curtischong.me/sleepovers](https://curtischong.me/sleepovers)
 
 ## Our Favourite Editions
 - [Smarter Slack Notifications](issues/055_smarter_slack_notifications.md)
