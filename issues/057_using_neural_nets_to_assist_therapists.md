@@ -54,6 +54,6 @@ I also hope that you think and feel excellent this week.
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='056_clicking-1-week-shipping-over-1-day-shipping.md'>#56: Clicking 1-week Shipping Over 1-day Shipping</a></p>
+<p align="center"><a href='056_clicking-1-week-shipping-over-1-day-shipping.md'>#56: Clicking 1-week Shipping Over 1-day Shipping</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='058_a_newsfeed_for_your_life.md'>#58: A Newsfeed for Your Life</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

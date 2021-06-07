@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#58 [A Newsfeed for Your Life](issues/058_a_newsfeed_for_your_life.md)
+
 #57 [Using Neural Nets to Assist Therapists](issues/057_using_neural_nets_to_assist_therapists.md)
 
 #56 [Clicking 1-week Shipping Over 1-day Shipping](issues/056_clicking-1-week-shipping-over-1-day-shipping.md)
