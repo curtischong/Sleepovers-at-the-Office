@@ -22,7 +22,7 @@ Since I was pretty obsessed with data collection at the time, I also wanted it t
 
 Here's a rough MVP of it:
 <p align="center">
-  <img width="60%" src="../assets/058/lnews_demo.png" alt="An MVP of my newsfeed"/>
+  <img width="100%" src="../assets/058/lnews_demo.png" alt="An MVP of my newsfeed"/>
 </p>
 
 Regrettably, I lost motivation after a few months because I had to write too much code before having enough features to be beneficial. I was also discouraged because I needed to use it for many months before I could analyze any long-term trends.
