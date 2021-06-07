@@ -3,7 +3,7 @@
 A few years ago, I made a game for school and snapped this /Jif/:
 
 <p align="center">
-  <img width="70%" src="../assets/038_a_new_art_style_particle_effects/game.gif" alt="The engine in action!"/>
+  <img width="70%" src="../assets/038/game.gif" alt="The engine in action!"/>
 </p>
 
 I love staring at this scene to this day because of the particle effects. It's SO satisfying to see the blue portal fly across the screen, leaving a trail of light dots before finally disappearing.

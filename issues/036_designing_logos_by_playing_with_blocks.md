@@ -3,7 +3,7 @@
 I was playing with magnetic blocks yesterday, and I made this logo:
 
 <p align="center">
-  <img width="50%" src="../assets/036_designing_logos_by_playing_with_blocks/helix_logo.jpg" alt="My logo made with magnetic blocks"/>
+  <img width="50%" src="../assets/036/helix_logo.jpg" alt="My logo made with magnetic blocks"/>
 </p>
 
 I never made a logo before, and I would've never thought of this design if I had to draw it out on paper.

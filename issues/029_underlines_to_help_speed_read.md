@@ -10,7 +10,7 @@ A better solution should keep all words on the page:
         - A faster way to read is to never focus on text near the edges of the page. It would be best if you stopped around an inch away from the page to avoid reading every word. To train ourselves, we can overlay guiding lines to know where to place our focus.
 
 <p align="center">
-  <img width="75%" src="../assets/029_underlines_to_help_speed_read/guiding_lines.png" alt="Underlined text"/>
+  <img width="75%" src="../assets/029/guiding_lines.png" alt="Underlined text"/>
 </p>
 
 These cues are great, but what about the text in the middle?
@@ -21,7 +21,7 @@ These cues are great, but what about the text in the middle?
         - We can use markers to determine where to focus.
 
 <p align="center">
-  <img width="75%" src="../assets/029_underlines_to_help_speed_read/visual_cue.png" alt="speed reading cues"/>
+  <img width="75%" src="../assets/029/visual_cue.png" alt="speed reading cues"/>
 </p>
 
 Finding where to place these visual cues is the hard part. Here are some ideas I've thought of:
