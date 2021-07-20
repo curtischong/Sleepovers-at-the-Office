@@ -37,6 +37,6 @@ Anyway, if you're interested in looking at the code, I've linked it [here](https
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='057_using_neural_nets_to_assist_therapists.md'>#57: Using Neural Nets to Assist Therapists</a></p>
+<p align="center"><a href='057_using_neural_nets_to_assist_therapists.md'>#57: Using Neural Nets to Assist Therapists</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='059_connecting_smart_people_to_problems.md'>#59: Connecting Smart People to Problems</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

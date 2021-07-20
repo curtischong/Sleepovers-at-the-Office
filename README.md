@@ -16,6 +16,16 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#63 [Increasing Survey Responses for Graduating Class Profiles](issues/063_increasing_survey_responses_for_graduating_class_profiles.md)
+
+#62 [Improving Customer Support](issues/062_improving_customer_support.md)
+
+#61 [Preventing False Fire Alarms](issues/061_preventing_false_fire_alarms.md)
+
+#60 [I Think I Know Why I Like You](issues/060_i_think_i_know_why_i_like_you.md)
+
+#59 [Connecting Smart People to Problems](issues/059_connecting_smart_people_to_problems.md)
+
 #58 [A Newsfeed for Your Life](issues/058_a_newsfeed_for_your_life.md)
 
 #57 [Using Neural Nets to Assist Therapists](issues/057_using_neural_nets_to_assist_therapists.md)
