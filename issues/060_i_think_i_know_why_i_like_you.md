@@ -62,6 +62,8 @@ Ahhhh feelings are weird. I'm probably thinking too much about it. So I hope tha
 
 P.S. It's obvious that I'm a CBT fangirl. It's probably because it has completely changed my perspective on why we have feelings. So if you have time, I'd recommend reading <a href="https://www.goodreads.com/book/show/54930681-feeling-great">Feeling Great</a> by Dr. Burns (2020), especially if you're stuck in the blues.
 
+P.P.S. Just putting this here for the record but obv another reason why I didn't want to do the Zoom lie detector is because it's a bit invasive of ppl's privacy.
+
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
