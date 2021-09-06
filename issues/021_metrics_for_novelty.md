@@ -36,7 +36,7 @@ P.S. I found the name "Pro-Plague" on a YouTube comment, I don't deserve any cre
 P.P.S. I know that "plague" is an extremely inaccurate name to describe many diseases, but I think that being overly technical will weaken the delivery of the message.
 
 ### Author's Amendment
-Since this newsletter has come out I'm no longer as supportive of names that carry a heavy emotional weight. When people hear "pro-plague" it's such an obvious attempt to anchor your feelings that it doesn't work. I think sympathy is the answer but that's for another sleepover :) 
+Since this newsletter has come out I'm no longer as supportive of names that carry a heavy emotional weight. When people hear "pro-plague" it's such an obvious attempt to anchor your feelings that it doesn't work. I think sympathy is the answer but that's for another sleepover :)
 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">

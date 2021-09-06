@@ -21,6 +21,6 @@ Overall, I love the detail in this year's survey. It's super fun to look at and 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='062_improving_customer_support.md'>#62: Improving Customer Support</a></p>
+<p align="center"><a href='062_improving_customer_support.md'>#62: Improving Customer Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='064_coming_up_with_ideas.md'>#64: Coming up with Ideas</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

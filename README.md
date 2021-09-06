@@ -16,6 +16,16 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#68 [A Metric for Lovely Conversations](issues/068_a_metric_for_lovely_conversations.md)
+
+#67 [Paying $0 to $10 a Month for Netflix](issues/067_paying_0_to_10_a_month_for_netflix.md)
+
+#66 [Finding a Fun 9 to 5](issues/066_finding_a_fun_9_to_5.md)
+
+#65 [Breaking out of Virtual Escape Rooms](issues/065_breaking_out_of_virtual_escape_rooms.md)
+
+#64 [Coming up with Ideas](issues/064_coming_up_with_ideas.md)
+
 #63 [Increasing Survey Responses for Graduating Class Profiles](issues/063_increasing_survey_responses_for_graduating_class_profiles.md)
 
 #62 [Improving Customer Support](issues/062_improving_customer_support.md)
