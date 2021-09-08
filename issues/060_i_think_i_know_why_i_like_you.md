@@ -54,7 +54,7 @@ Here's another idea I had: If our thoughts create our feelings, can we implant t
 
 Of course, there are definitely biological factors at play. It's why actors are pretty. But since modern CBT is so effective at treating depression, I believe that your thoughts play a significant role in your romantic feelings.
 
-So the next time you like someone new, maybe ask yourself: which thoughts are you telling yourself? Have you met someone else that inites similar thoughts? Maybe there are a series of thoughts that can predict whether you would fall for someone. Maybe we can predict divorce rates amongst couples who think certain thoughts about their partners. Maybe love is created by a flurry of smile-induced neurotransmitters and just a few adorning thoughts.
+So the next time you like someone new, maybe ask yourself: which thoughts are you telling yourself? Have you met someone else that incites similar thoughts? Maybe there are a series of thoughts that can predict whether you would fall for someone. Maybe we can predict divorce rates amongst couples who think certain thoughts about their partners. Maybe love is created by a flurry of smile-induced neurotransmitters and just a few adorning thoughts.
 
 Ahhhh feelings are weird. I'm probably thinking too much about it. So I hope that you have a wonderful week.
 
