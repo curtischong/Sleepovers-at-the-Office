@@ -15,16 +15,18 @@ So if there was a website that shows the impact of your giving as effectively as
 A website that shows the impact of your giving would be more fun than Addapar because it can tell more than where your money is, it can show you:
 
 - Your cumulative effect across multiple charities.
-    - The supplies you provided.
-    - The lives you've saved.
-    - Estimates on the economic impact of your contribution.
+  - The supplies you provided.
+  - The lives you've saved.
+  - Estimates on the economic impact of your contribution.
 - How others are giving away their money.
-    - Knowing that you're working with a team of others is a massive vote of confidence.
+  - Knowing that you're working with a team of others is a massive vote of confidence.
 - Personal thank-you's from people you've touched.
 
 Have a great week!
 
 \- Curtis
+
+P.S. Here is where Bill Gates mentions that there aren't enough philanthropists [youtu.be/jmQWOPDqxWA?t=2175](https://youtu.be/jmQWOPDqxWA?t=2175)
 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
