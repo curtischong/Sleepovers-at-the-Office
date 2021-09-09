@@ -41,7 +41,8 @@ But what do I say?
 <br>
 <br>
 It was a minefield of conversational pitfalls. I didn't think that I could say hi to a complete stranger. Asking someone out is the scariest thing in the world.
-
+<br>
+<br>
 What if it means that we would never talk again? I wanted to meet them because I think we'd have great conversations. I didn't want that possibility to be gone.
 
 So I did nothing. We probably could've hit off to a great talk though.
