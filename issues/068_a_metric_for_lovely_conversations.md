@@ -51,6 +51,6 @@ Anyway, there are so many more aspects of conversation we haven't discussed. But
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='067_paying_0_to_10_a_month_for_netflix.md'>#67: Paying $0 to $10 a Month for Netflix</a></p>
+<p align="center"><a href='067_paying_0_to_10_a_month_for_netflix.md'>#67: Paying $0 to $10 a Month for Netflix</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='069_treasuring_friendships.md'>#69: Treasuring Friendships</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

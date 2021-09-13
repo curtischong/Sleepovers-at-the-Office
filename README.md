@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#69 [Treasuring Friendships](issues/069_treasuring_friendships.md)
+
 #68 [A Metric for Lovely Conversations](issues/068_a_metric_for_lovely_conversations.md)
 
 #67 [Paying $0 to $10 a Month for Netflix](issues/067_paying_0_to_10_a_month_for_netflix.md)
