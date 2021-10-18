@@ -16,6 +16,12 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#72 [Learning by Auto-grouping Our Notes](issues/072_learning_by_auto_grouping_our_notes.md)
+
+#71 [A Search Engine That Has Your Back](issues/071_a_search_engine_that_has_your_back.md)
+
+#70 [Measuring Product-Market Fit for YouTubers](issues/070_measuring_product_market_fit_for_youtubers.md)
+
 #69 [Treasuring Friendships](issues/069_treasuring_friendships.md)
 
 #68 [A Metric for Lovely Conversations](issues/068_a_metric_for_lovely_conversations.md)

@@ -15,6 +15,6 @@ P.S. If this idea's up your alley, we should team up for our Fourth Year Design 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='068_a_metric_for_lovely_conversations.md'>#68: A Metric for Lovely Conversations</a></p>
+<p align="center"><a href='068_a_metric_for_lovely_conversations.md'>#68: A Metric for Lovely Conversations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='070_measuring_product_market_fit_for_youtubers.md'>#70: Measuring Product-Market Fit for YouTubers</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
