@@ -13,9 +13,9 @@ You're radiant. And I want to learn more about you... but I'm not sure what you'
 - Leave out the exact details of a story.
 - etc.
 
-I like sticking to the basics because they're guaranteed. But sometimes, there's just so much to follow. So I wanted to encapsulate all these rules of thumb into a single metric for conversation quality. Here's my attempt at creating one:
+I like sticking to the basics because they're guaranteed. But sometimes, there's just so much to follow. So I wanted to encapsulate all these rules of thumb into a single metric for conversation quality. Here's my attempt at creating one.
 
-A lovely conversation happens when everyone in the conversation pitches in ideas. Specifically, we can model the quality of a conversation topic with this formula:
+I think that a lovely conversation happens when everyone in the conversation pitches in ideas. Specifically, we can model the quality of a conversation topic with this formula:
 
 <p align="center">
   <img width="50%" src="../assets/068/topic_quality.gif" alt="Q(topic) = I_1 * I_2"/>
