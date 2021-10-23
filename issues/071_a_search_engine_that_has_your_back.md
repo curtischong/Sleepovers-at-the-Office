@@ -22,6 +22,7 @@ I want to end by saying that if the internet of the 2010s was about sharing your
 I don't know. I wish I were more informed. The knowledge is out there, but I don't know when and where to look for it.
 
 Anyway, thank you so much for reading this. I'll see you next week!
+
 \- Curtis
 
 <!--START OF FOOTER-->
