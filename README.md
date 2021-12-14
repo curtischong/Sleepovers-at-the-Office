@@ -16,6 +16,12 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#76 [Automatically Generating Regex](issues/076_automatically_generating_regex.md)
+
+#75 [Encoding Nonverbal Communication in Writing](issues/075_encoding_nonverbal_communication_in_writing.md)
+
+#73 [Making Social Media Less Addictive](issues/073_making_social_media_less_addictive.md)
+
 #72 [Learning by Auto-grouping Our Notes](issues/072_learning_by_auto_grouping_our_notes.md)
 
 #71 [A Search Engine That Has Your Back](issues/071_a_search_engine_that_has_your_back.md)
