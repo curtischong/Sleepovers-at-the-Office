@@ -20,7 +20,7 @@ Here are some examples of inflections:
 So how might we encode these inflections in speech?
 
 1) Use accents: "Yes, I'm suré" (upwards) vs "Yes, I'm surè" (downwards)
-2) Use underlines/overlines: "Johnny̅" (upwards) vs "Johnny" (downwards)
+2) Use underlines/overlines: "Johnny̅" (upwards) vs "Johnn<u>y</u>" (downwards)
 
 I prefer the underline encoding because it doesn't overload any existing characters, and you can also vary the thickness of the underline to convey how strong the inflection was.
 
