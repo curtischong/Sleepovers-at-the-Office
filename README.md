@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#79 [Online Judges for Evolution Simulators](issues/079_online_judges_for_evolution_simulators.md)
+
 #78 [Automatically Generating Regex](issues/078_wikipediafying_books_to_make_reading_fun.md)
 
 #77 [Automatically Generating Regex](issues/077_automatically_generating_regex.md)

@@ -46,6 +46,6 @@ Whether it’s a show or a book, I hope you find a lovely story to binge this wi
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='077_automatically_generating_regex.md'>#77: Automatically Generating Regex</a></p>
+<p align="center"><a href='077_automatically_generating_regex.md'>#77: Automatically Generating Regex</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='079_online_judges_for_evolution_simulators.md'>#79: Online Judges for Evolution Simulators</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
