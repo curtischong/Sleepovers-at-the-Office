@@ -37,6 +37,6 @@ P.S. Thank you so much for being here after 75 newsletters! I honestly didn't th
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='073_making_social_media_less_addictive.md'>#73: Making Social Media Less Addictive</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='076_automatically_generating_regex.md'>#76: Automatically Generating Regex</a></p>
+<p align="center"><a href='073_making_social_media_less_addictive.md'>#73: Making Social Media Less Addictive</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='076_preventing_500_gcp_bills.md'>#76: Preventing $500 GCP Bills</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

@@ -16,7 +16,11 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
-#76 [Automatically Generating Regex](issues/076_automatically_generating_regex.md)
+#78 [Automatically Generating Regex](issues/078_wikipediafying_books_to_make_reading_fun.md)
+
+#77 [Automatically Generating Regex](issues/077_automatically_generating_regex.md)
+
+#76 [Preventing $500 GCP Bills](issues/076_preventing_500_gcp_bills.md)
 
 #75 [Encoding Nonverbal Communication in Writing](issues/075_encoding_nonverbal_communication_in_writing.md)
 
