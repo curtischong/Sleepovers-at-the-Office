@@ -7,13 +7,13 @@ Every year I send my friend a programming challenge for his birthday. If he can 
 This year, he has to find a genome that will offer simulated creatures the highest chance of survival. If the creatures have suitable genes to survive the round, they will pass on their genes to their children. Over time, the simulation goes from this:
  
 <p align="center">
-  <img width="20%" src="../assets/079/bad_genome.gif" alt="The initial creatures of Gen 0. The genetic makeup has high variation"/>
+  <img width="30%" src="../assets/079/bad_genome.gif" alt="The initial creatures of Gen 0. The genetic makeup has high variation"/>
 </p>
 
 To this:
  
 <p align="center">
-  <img width="20%" src="../assets/079/good_genome.gif" alt="The creatures of Gen 10000. The creatures move to the 4 corners of the map"/>
+  <img width="30%" src="../assets/079/good_genome.gif" alt="The creatures of Gen 10000. The creatures move to the 4 corners of the map"/>
 </p>
 
 
