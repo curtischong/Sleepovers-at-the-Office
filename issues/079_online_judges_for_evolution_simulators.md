@@ -46,6 +46,6 @@ P.P.S. I recognize that "Leetcodifying" problems in other disciplines could brin
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='078_wikipediafying_books_to_make_reading_fun.md'>#78: Automatically Generating Regex</a></p>
+<p align="center"><a href='078_wikipediafying_books_to_make_reading_fun.md'>#78: Wikipediafying Books to Make Reading Fun</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='080_laughing_at_every_reference.md'>#80: Laughing at Every Reference</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

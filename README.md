@@ -16,9 +16,17 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#83 [Is ___ Funny?](issues/083_is_____funny.md)
+
+#82 [Verifying It's Me to the Government](issues/082_verifying_its_me_to_the_government.md)
+
+#81 [Effortlessly Digitizing Notebooks](issues/081_effortlessly_digitizing_notebooks.md)
+
+#80 [Laughing at Every Reference](issues/080_laughing_at_every_reference.md)
+
 #79 [Online Judges for Evolution Simulators](issues/079_online_judges_for_evolution_simulators.md)
 
-#78 [Automatically Generating Regex](issues/078_wikipediafying_books_to_make_reading_fun.md)
+#78 [Wikipediafying Books to Make Reading Fun](issues/078_wikipediafying_books_to_make_reading_fun.md)
 
 #77 [Automatically Generating Regex](issues/077_automatically_generating_regex.md)
 

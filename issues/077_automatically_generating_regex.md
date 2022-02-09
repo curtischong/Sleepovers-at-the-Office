@@ -42,6 +42,6 @@ Anyway, that's about it, let me know what you think, and I wish you the best of 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='076_preventing_500_gcp_bills.md'>#76: Preventing $500 GCP Bills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='078_wikipediafying_books_to_make_reading_fun.md'>#78: Automatically Generating Regex</a></p>
+<p align="center"><a href='076_preventing_500_gcp_bills.md'>#76: Preventing $500 GCP Bills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='078_wikipediafying_books_to_make_reading_fun.md'>#78: Wikipediafying Books to Make Reading Fun</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
