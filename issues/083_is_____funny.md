@@ -44,6 +44,6 @@ Anyway, the path for me to improve is to put in the hours, so I promise to make 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='082_verifying_its_me_to_the_government.md'>#82: Verifying It's Me to the Government</a></p>
+<p align="center"><a href='082_verifying_its_me_to_the_government.md'>#82: Verifying It's Me to the Government</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='084_recording_and_publishing_podcasts_in_15_seconds.md'>#84: Recording and Publishing Podcasts in 15 Seconds</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
