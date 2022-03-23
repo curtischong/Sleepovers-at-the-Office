@@ -32,6 +32,6 @@ Anyway, thank you so much for reading this and I hope you have a joyful week!
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='084_recording_and_publishing_podcasts_in_15_seconds.md'>#84: Recording and Publishing Podcasts in 15 Seconds</a></p>
+<p align="center"><a href='084_recording_and_publishing_podcasts_in_15_seconds.md'>#84: Recording and Publishing Podcasts in 15 Seconds</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='086_privacy_+_ar_glasses.md'>#86: Privacy + AR Glasses</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

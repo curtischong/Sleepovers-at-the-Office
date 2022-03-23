@@ -16,6 +16,10 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#87 [A Date to Remember](issues/087_a_date_to_remember.md)
+
+#86 [Privacy + AR Glasses](issues/086_privacy_+_ar_glasses.md)
+
 #85 [My Personal Grammarly ](issues/085_my_personal_grammarly.md)
 
 #84 [Recording and Publishing Podcasts in 15 Seconds](issues/084_recording_and_publishing_podcasts_in_15_seconds.md)
