@@ -16,6 +16,10 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#89 [Spreadsheeting Friendships](issues/089_spreadsheeting_friendships.md)
+
+#88 [Singable Songs](issues/088_singable_songs.md)
+
 #87 [A Date to Remember](issues/087_a_date_to_remember.md)
 
 #86 [Privacy + AR Glasses](issues/086_privacy_+_ar_glasses.md)

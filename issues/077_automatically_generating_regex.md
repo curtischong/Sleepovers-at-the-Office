@@ -27,9 +27,9 @@ What if we moved away from a fully-automated approach and asked users to help th
 
 Here's how it'll look like (Note: the over/underlines represent the different "blocks" the user selects.):
 
-- s̅<u>ell</u>
-- b̅<u>ell</u>s̅
-- s̅h̅<u>ell</u>
+- s̅<ins>ell</ins>
+- b̅<ins>ell</ins>s̅
+- s̅h̅<ins>ell</ins>
 
 These annotations help the algorithm create our intended regex `[a-z]+ells? since we explicitly tell the algorithm to group "s," "b," and "sh" into the first block, "ell" into the second block, and "s" into the third block.
 

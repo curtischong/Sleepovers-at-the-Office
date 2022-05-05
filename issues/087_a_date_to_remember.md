@@ -21,6 +21,6 @@ Anyway, it’s getting late for me, so I wish you the most romantic of memories 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='086_privacy_+_ar_glasses.md'>#86: Privacy + AR Glasses</a></p>
+<p align="center"><a href='086_privacy_+_ar_glasses.md'>#86: Privacy + AR Glasses</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='088_singable_songs.md'>#88: Singable Songs</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
