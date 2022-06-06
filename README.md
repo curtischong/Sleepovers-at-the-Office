@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#90 [Cross-service Debuggers](issues/090_cross_service_debuggers.md)
+
 #89 [Spreadsheeting Friendships](issues/089_spreadsheeting_friendships.md)
 
 #88 [Singable Songs](issues/088_singable_songs.md)
