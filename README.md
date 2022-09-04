@@ -16,6 +16,14 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#94 [Solving Games as a Service](issues/094_solving_games_as_a_service.md)
+
+#93 [Auto Layout Tool for News Articles](issues/093_auto_layout_tool_for_news_articles.md)
+
+#92 [Real-Time Inflation Tracking](issues/092_real-time_inflation_tracking.md)
+
+#91 [A Unit for Fun](issues/091_a_unit_for_fun.md)
+
 #90 [Cross-service Debuggers](issues/090_cross_service_debuggers.md)
 
 #89 [Spreadsheeting Friendships](issues/089_spreadsheeting_friendships.md)

@@ -26,6 +26,6 @@ Who knows, maybe we don't need something like this because it's probably a bette
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='089_spreadsheeting_friendships.md'>#89: Spreadsheeting Friendships</a></p>
+<p align="center"><a href='089_spreadsheeting_friendships.md'>#89: Spreadsheeting Friendships</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='091_a_unit_for_fun.md'>#91: A Unit for Fun</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
