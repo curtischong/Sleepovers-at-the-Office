@@ -26,6 +26,8 @@ Despite all these challenges, I full-heartedly believe that an algorithm can sol
 
 \- Curtis
 
+P.S. I think this is a significant problem to work on because if we can create such an algorithm, the computer will be able to understand human psychology and rank the effectiveness of different ways of saying the same idea. A boring way to use this model is to ask it to generate supereffective email subject lines, so we no longer have to A/B test emails. A mesmerizing application would be to understand more about human psychology. For example, which phrases would increase the chance for nuclear deterrence to fail?
+
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
