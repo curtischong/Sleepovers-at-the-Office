@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#95 [Games Computers Will Never Solve](issues/095_games_computers_will_never_solve.md)
+
 #94 [Solving Games as a Service](issues/094_solving_games_as_a_service.md)
 
 #93 [Auto Layout Tool for News Articles](issues/093_auto_layout_tool_for_news_articles.md)

@@ -29,6 +29,6 @@ That's all I have, so I hope you play some fun games this week!
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='093_auto_layout_tool_for_news_articles.md'>#93: Auto Layout Tool for News Articles</a></p>
+<p align="center"><a href='093_auto_layout_tool_for_news_articles.md'>#93: Auto Layout Tool for News Articles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='095_games_computers_will_never_solve.md'>#95: Games Computers Will Never Solve</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
