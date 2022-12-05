@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#96 [Homeless People Have Phones](issues/096_homeless_people_have_phones.md)
+
 #95 [Games Computers Will Never Solve](issues/095_games_computers_will_never_solve.md)
 
 #94 [Solving Games as a Service](issues/094_solving_games_as_a_service.md)

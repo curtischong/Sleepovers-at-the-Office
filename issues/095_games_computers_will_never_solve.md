@@ -31,6 +31,6 @@ P.S. I think this is a significant problem to work on because if we can create s
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='094_solving_games_as_a_service.md'>#94: Solving Games as a Service</a></p>
+<p align="center"><a href='094_solving_games_as_a_service.md'>#94: Solving Games as a Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='096_homeless_people_have_phones.md'>#96: Homeless People Have Phones</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
