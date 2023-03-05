@@ -16,6 +16,10 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#98 [Technology to Divert Hurricanes](issues/098_technology_to_divert_hurricanes.md)
+
+#97 [How Exploding Furnaces Saved Me Hours of Debugging](issues/097_how_exploding_furnaces_saved_me_hours_of_debugging.md)
+
 #96 [Homeless People Have Phones](issues/096_homeless_people_have_phones.md)
 
 #95 [Games Computers Will Never Solve](issues/095_games_computers_will_never_solve.md)

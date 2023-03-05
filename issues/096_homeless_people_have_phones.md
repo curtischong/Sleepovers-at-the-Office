@@ -23,6 +23,6 @@ It's unfortunate how easy it is to walk by hungry people. It's more unfortunate 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='095_games_computers_will_never_solve.md'>#95: Games Computers Will Never Solve</a></p>
+<p align="center"><a href='095_games_computers_will_never_solve.md'>#95: Games Computers Will Never Solve</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='097_how_exploding_furnaces_saved_me_hours_of_debugging.md'>#97: How Exploding Furnaces Saved Me Hours of Debugging</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
