@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#99 [Grammarly for Cold Emails](issues/099_grammarly_for_cold_emails.md)
+
 #98 [Technology to Divert Hurricanes](issues/098_technology_to_divert_hurricanes.md)
 
 #97 [How Exploding Furnaces Saved Me Hours of Debugging](issues/097_how_exploding_furnaces_saved_me_hours_of_debugging.md)

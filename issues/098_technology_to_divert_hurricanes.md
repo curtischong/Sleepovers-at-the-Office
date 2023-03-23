@@ -34,6 +34,6 @@ After thinking about this some more, I believe that a more effective way to alte
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='097_how_exploding_furnaces_saved_me_hours_of_debugging.md'>#97: How Exploding Furnaces Saved Me Hours of Debugging</a></p>
+<p align="center"><a href='097_how_exploding_furnaces_saved_me_hours_of_debugging.md'>#97: How Exploding Furnaces Saved Me Hours of Debugging</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='099_grammarly_for_cold_emails.md'>#99: Grammarly for Cold Emails</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
