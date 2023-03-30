@@ -1,5 +1,5 @@
 # Chrome Extensions for Messaging Apps
-Morning guys!
+Morning everyone!
 
 I think that tech hasn't given communication apps a fair shot. Chatbots have failed, and Messenger still feels like SMS.
 
