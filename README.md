@@ -7,10 +7,11 @@ Hey, thanks for checking this out! This is my archive for Sleepovers. There's a 
 I try my best to keep this page updated, but if you want them delivered straight to your inbox, you can sign up here: [curtischong.me/sleepovers](https://curtischong.me/sleepovers)
 
 ## Our Favourite Editions
+
+- [Technology to Divert Hurricanes](issues/098_technology_to_divert_hurricanes.md)
+- [How I Lost My Job](issues/074_how_i_lost_my_job.md)
 - [Smarter Slack Notifications](issues/055_smarter_slack_notifications.md)
 - [My Failed Attempt at Finding Love](issues/043_my_failed_attempt_at_finding_love.md)
-- [Technical Interviews for Writing Pull Requests](issues/035_technical_interviews_for_writing_pull_requests.md)
-- [A Tool That Helps You Write Better](issues/013_a_tool_that_helps_you_write_better.md)
 
 ## The Complete List
 
@@ -65,6 +66,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 #76 [Preventing $500 GCP Bills](issues/076_preventing_500_gcp_bills.md)
 
 #75 [Encoding Nonverbal Communication in Writing](issues/075_encoding_nonverbal_communication_in_writing.md)
+
+#74 [How I Lost My Job](issues/074_how_i_lost_my_job.md)
 
 #73 [Making Social Media Less Addictive](issues/073_making_social_media_less_addictive.md)
 

@@ -38,6 +38,6 @@ P.S. You can read more about Unfollow Everything <a href="https://www.theverge.c
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='072_learning_by_auto_grouping_our_notes.md'>#72: Learning by Auto-grouping Our Notes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='075_encoding_nonverbal_communication_in_writing.md'>#75: Encoding Nonverbal Communication in Writing</a></p>
+<p align="center"><a href='072_learning_by_auto_grouping_our_notes.md'>#72: Learning by Auto-grouping Our Notes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='074_how_i_lost_my_job.md'>#74: How I Lost My Job</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
