@@ -10,7 +10,6 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 - [Technology to Divert Hurricanes](issues/098_technology_to_divert_hurricanes.md)
 - [How I Lost My Job](issues/074_how_i_lost_my_job.md)
-- [Smarter Slack Notifications](issues/055_smarter_slack_notifications.md)
 - [My Failed Attempt at Finding Love](issues/043_my_failed_attempt_at_finding_love.md)
 
 ## The Complete List
