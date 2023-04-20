@@ -6,7 +6,7 @@ Hey, thanks for checking this out! This is my archive for Sleepovers. There's a 
 
 I try my best to keep this page updated, but if you want them delivered straight to your inbox, you can sign up here: [curtischong.me/sleepovers](https://curtischong.me/sleepovers)
 
-## Our Favourite Editions
+## Our Favourite Sleepovers
 
 - [Technology to Divert Hurricanes](issues/098_technology_to_divert_hurricanes.md)
 - [How I Lost My Job](issues/074_how_i_lost_my_job.md)
