@@ -2,7 +2,7 @@
   <img src="assets/title.jpg" alt="Sleepovers at the Office" width="600"/>
 </p>
 
-Hey, thanks for checking this out! This is my archive for Sleepovers. There's a lot of random ideas in here. And if you work on any of them, tell me about it! I'd love to hear how it's going.
+Hey, thanks for checking this out! This is my archive for my newsletter about tech-based project ideas. There's a lot of random ideas in here. And if you work on any of them, tell me about it! I'd love to hear how it's going.
 
 I try my best to keep this page updated, but if you want them delivered straight to your inbox, you can sign up here: [curtischong.me/sleepovers](https://curtischong.me/sleepovers)
 
