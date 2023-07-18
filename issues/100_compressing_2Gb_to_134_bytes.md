@@ -20,7 +20,7 @@ We only needed to send 2-3 sentences! To save even more space, we can compress o
 
 But who cares? Our current compression algorithms work fine.
 
-I think this algorithm would work well when storing and transmitting data is expensive (i.e. in blockchains):
+I think this algorithm would work well when sending and storing data is expensive (i.e. in blockchains):
 
 - Rather than storing images on-chain, store the prompts to generate them.
 - For blockchain games, don’t store how the world looks, just the prompts to create it.
