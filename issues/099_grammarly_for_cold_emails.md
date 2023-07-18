@@ -68,6 +68,6 @@ Anyway, I hope you're doing well. If we haven't talked recently, we should call 
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='098_technology_to_divert_hurricanes.md'>#98: Technology to Divert Hurricanes</a></p>
+<p align="center"><a href='098_technology_to_divert_hurricanes.md'>#98: Technology to Divert Hurricanes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='100_compressing_2Gb_to_134_bytes.md'>#100: Compressing 2Gb ➜ 134 Bytes</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
