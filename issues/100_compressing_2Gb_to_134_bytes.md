@@ -37,6 +37,6 @@ Anyway, you’re stellar, and thanks for reading this. I hope you have a fantast
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='099_grammarly_for_cold_emails.md'>#99: Grammarly for Cold Emails</a></p>
+<p align="center"><a href='099_grammarly_for_cold_emails.md'>#99: Grammarly for Cold Emails</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='101_players_cause_city_wide_blackout_to_win_a_battle_chatting_with_eve_onlines_ceo.md'>#101: Players Cause City-wide Blackout to Win a Battle - Chatting with Eve Online’s CEO</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->

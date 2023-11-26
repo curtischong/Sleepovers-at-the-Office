@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#101 [Players Cause City-wide Blackout to Win a Battle - Chatting with Eve Online’s CEO](issues/101_players_cause_city_wide_blackout_to_win_a_battle_chatting_with_eve_onlines_ceo.md)
+
 #100 [Compressing 2Gb ➜ 134 Bytes](issues/100_compressing_2Gb_to_134_bytes.md)
 
 #99 [Grammarly for Cold Emails](issues/099_grammarly_for_cold_emails.md)
