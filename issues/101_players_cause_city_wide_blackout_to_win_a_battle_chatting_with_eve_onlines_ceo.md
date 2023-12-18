@@ -33,6 +33,6 @@ Hilmar didn’t understand these axioms when he started, but he does now, so he'
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='100_compressing_2Gb_to_134_bytes.md'>#100: Compressing 2Gb ➜ 134 Bytes</a></p>
+<p align="center"><a href='100_compressing_2Gb_to_134_bytes.md'>#100: Compressing 2Gb ➜ 134 Bytes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='102_grammarly_for_anything.md'>#102: Grammarly for Anything</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
