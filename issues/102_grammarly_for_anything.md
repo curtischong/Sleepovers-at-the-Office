@@ -29,7 +29,7 @@ It makes learning interactive, rather than passive.
 
 The core logic is just prompt engineering, so if you have clever cold-emailing tricks, you can write a "check" that will proofread soon-to-be-sent emails.
 
-You can try it out now at checklet.page. I hope someone finds this helpful, even if it's just to proofread your resume once a semester.
+You can try it out now at [checklet.page](https://checklet.page). I hope someone finds this helpful, even if it's just to proofread your resume once a semester.
 
 
 Happy holidays!
