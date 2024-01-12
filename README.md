@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#103 [PhDs Are Replacing Formulas with Neural Nets](issues/103_phds_are_replacing_formulas_with_neural_nets.md)
+
 #102 [Grammarly for Anything](issues/102_grammarly_for_anything.md)
 
 #101 [Players Cause City-wide Blackout to Win a Battle - Chatting with Eve Online’s CEO](issues/101_players_cause_city_wide_blackout_to_win_a_battle_chatting_with_eve_onlines_ceo.md)
