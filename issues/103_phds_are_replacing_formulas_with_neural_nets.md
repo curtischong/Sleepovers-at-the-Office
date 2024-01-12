@@ -17,6 +17,8 @@ Anyhow, if you ever need to speed up code, see if you can replace it with a neur
 
 \- Curtis
 
+P.S. Since I quit my startup, I’ve been trying to figure out a fun computational-based project to work on. If you’re doing some cool research in science, I’d love to call you!
+
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
