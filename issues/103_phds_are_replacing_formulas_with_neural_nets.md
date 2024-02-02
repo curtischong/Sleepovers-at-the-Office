@@ -22,6 +22,6 @@ P.S. Since I quit my startup, I’ve been trying to figure out a fun computation
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='102_grammarly_for_anything.md'>#102: Grammarly for Anything</a></p>
+<p align="center"><a href='102_grammarly_for_anything.md'>#102: Grammarly for Anything</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='104_making_unhackable_servers.md'>#104: Making Unhackable Servers</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
