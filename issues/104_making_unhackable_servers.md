@@ -37,6 +37,8 @@ P.S. I made a demo that runs a Minecraft server inside an AWS enclave [here.](ht
 
 P.P.S. I’m only talking about 2PC/MPC technologies here. ZK research is still incredibly useful because it is the only tool that can retroactively prove that a computation happened.
 
+Note: My friend Eesha mentioned that you can just hash a user's private info and compare the hashes instead. This is so true (and is what hashmaps already do)! I guess you're still revealing extra info (like how many patients you have). So it's not perfect. But I would count this as using custom cryptography to solve this specific problem.
+
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
