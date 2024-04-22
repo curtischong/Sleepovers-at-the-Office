@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#105 [Using Diffusion to Discover New Materials](issues/105_using_diffusion_to_discover_new_materials.md)
+
 #104 [Making Unhackable Servers](issues/104_making_unhackable_servers.md)
 
 #103 [PhDs Are Replacing Formulas with Neural Nets](issues/103_phds_are_replacing_formulas_with_neural_nets.md)
