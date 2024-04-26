@@ -32,6 +32,8 @@ I hope you've been doing really well, and I wish you the best of weeks!
 
 \- Curtis
 
+### Update! I have housing! Thank you for the messages!
+
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
