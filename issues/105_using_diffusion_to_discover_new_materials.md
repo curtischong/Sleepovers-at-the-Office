@@ -24,7 +24,7 @@ So, I trained a diffusion model that generates realistic-looking crystals:
 </p>
 
 
-There's still a long way to go, so for the first time in Sleepovers, I'm asking for your help. I need friends to work on this project with. It'd be really cool if we built an algorithm that found room-temperature superconductors.
+There's still a long way to go, so for the first time in Sleepovers, I'm asking for your help. I need friends to work on this project with. It'd be really cool if we found efficient thermoelectric materials or better catalysts for the Haber-Bosch process.
 
 So if you know someone, please forward them this email! I’m also looking for a place to stay in Boston for May. So if you know of a couch I could rent please let me know!
 
