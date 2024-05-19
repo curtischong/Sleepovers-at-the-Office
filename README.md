@@ -10,7 +10,7 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 - [Technology to Divert Hurricanes](issues/098_technology_to_divert_hurricanes.md)
 - [How I Lost My Job](issues/074_how_i_lost_my_job.md)
-- [My Failed Attempt at Finding Love](issues/043_my_failed_attempt_at_finding_love.md)
+- [A Metric for Lovely Conversations](https://github.com/curtischong/Sleepovers-at-the-Office/blob/master/issues/068_a_metric_for_lovely_conversations.md)
 
 ## The Complete List
 
