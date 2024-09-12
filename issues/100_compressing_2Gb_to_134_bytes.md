@@ -7,7 +7,7 @@ Last month, Photoshop released an AI feature to:
 1) Generate an image from a prompt
 2) Edit the image by:
     1) Drawing a box
-    2) Asking it to “Add <an object> here”
+    2) Asking it to “Add \<an object\> here”
 
 Wait… isn’t this a compression algorithm? If you send your friend the prompts you used to:
 
