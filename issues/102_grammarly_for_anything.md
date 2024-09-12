@@ -10,10 +10,10 @@ Unemployed, I did the only thing I knew that would make me happy:
 
 Create something I've always dreamed of - Grammarly, but for:
 
-Writing resumes
-Writing jokes
-Editing Sleepovers
-Writing anything!
+- Writing resumes
+- Writing jokes
+- Editing Sleepovers
+- Writing anything!
 
 
 <p align="center">
