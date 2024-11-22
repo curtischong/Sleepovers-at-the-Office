@@ -37,6 +37,6 @@ I hope you've been doing really well, and I wish you the best of weeks!
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='104_making_unhackable_servers.md'>#104: Making Unhackable Servers</a></p>
+<p align="center"><a href='104_making_unhackable_servers.md'>#104: Making Unhackable Servers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='106_how_to_build_the_model_that_discovers_matter.md'>#106: How to Build the Model That Discovers Matter</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
