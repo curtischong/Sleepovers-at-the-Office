@@ -18,7 +18,7 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 #106 [How to Build the Model That Discovers Matter](issues/106_how_to_build_the_model_that_discovers_matter.md)
 
-#105 [Using Diffusion to Discover New Materials](issues/105_using_diffusion_to_discover_new_materials copy.md)
+#105 [Using Diffusion to Discover New Materials](issues/105_using_diffusion_to_discover_new_materials.md)
 
 #104 [Making Unhackable Servers](issues/104_making_unhackable_servers.md)
 
