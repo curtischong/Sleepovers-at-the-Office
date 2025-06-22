@@ -16,6 +16,8 @@ I try my best to keep this page updated, but if you want them delivered straight
 
 <!--START OF TABLE OF CONTENTS-->
 
+#107 [The Algorithms in Your Blind Spots](issues/107_the_algorithms_in_your_blind_spots.md)
+
 #106 [How to Build the Model That Discovers Matter](issues/106_how_to_build_the_model_that_discovers_matter.md)
 
 #105 [Using Diffusion to Discover New Materials](issues/105_using_diffusion_to_discover_new_materials.md)
