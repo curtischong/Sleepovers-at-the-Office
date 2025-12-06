@@ -42,6 +42,6 @@ P.P.S. If you want to try my extension, you can find it here ([github.com/curtis
 <!--START OF FOOTER-->
 <hr style="margin-top:9px;height:1px;border: 0;background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.0));">
 <!--START OF ISSUE NAVIGATION LINKS-->
-<p align="center"><a href='096_homeless_people_have_phones.md'>#96: Homeless People Have Phones</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='098_technology_to_divert_hurricanes.md'>#98: Technology to Divert Hurricanes</a></p>
+<p align="center"><a href='095_games_computers_will_never_solve.md'>#95: Games Computers Will Never Solve</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='098_technology_to_divert_hurricanes.md'>#98: Technology to Divert Hurricanes</a></p>
 <!--START OF ISSUE NAVIGATION LINKS-->
 <!--END OF FOOTER-->
